@@ -1,6 +1,6 @@
 # ISDC-Project-3-Translate-Histogram-Filter-from-Python-to-Cpp
 
-##Project Overview
+## Project Overview
 
 The goal of this project is to take the python code you wrote when you implemented the two dimensional histogram filter and translate it into C++.
 
@@ -11,6 +11,6 @@ NOTE - when compiling your code, make sure you use C++11. You can do this from t
 g++ -std=c++11 tests.cpp
 
 
-##Directory Structure
+## Directory Structure
 
 You should create a new project folder/directory to put the project code into. Inside that you should also create a maps directory.
